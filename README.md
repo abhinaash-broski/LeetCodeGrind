@@ -1,0 +1,1 @@
+"this repo will contain program files for the leetcodes problems i will be solving with time. the aim is to solve 1 question per day ie 7 questions in 1 weeks and double the number of question everyweek. strting september 6" 
