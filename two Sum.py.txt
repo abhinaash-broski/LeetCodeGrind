@@ -1,0 +1,11 @@
+#Two Sum Problem 
+#We have an array and a target and we have to find the set of numbers that gives target when added. 
+
+num =[2,4,5,6,7,12,3,9]
+target = 16 
+for i in range (0, len(num)): 
+    for j in range (i, len(num)-1): 
+        sum = num[i]+num[j]
+        if sum == target:
+            print(num[i]), num[j]
+            
